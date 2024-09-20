@@ -1,16 +1,22 @@
-# Project Name
+#Fcc Quiz form
 
-> One paragraph statement about the project.
+> This is a project about some semantic HTML and CSS elements
 
-![screenshot](./app_screenshot.png)
+![Quiz form](app_sceenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html elements,
+  - `label`, `section`, `footer`, `header`
+  - ``nav`, `ul`, `ol`, `button`, `div`
+- CSS,
+  - `display`, `padding`, `justify-content`
+  - `align-items`, `margin`, `background-color`, `color`
+- Linters
+  - [prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +27,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/09-fcc-building-quiz.git
 
 ```
 
@@ -77,9 +83,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
