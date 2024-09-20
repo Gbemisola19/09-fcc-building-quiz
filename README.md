@@ -10,7 +10,7 @@ Additional description of the project and its features.
 
 - Html elements,
   - `label`, `section`, `footer`, `header`
-  - ``nav`, `ul`, `ol`, `button`, `div`
+  - `nav`, `ul`, `ol`, `button`, `div`
 - CSS,
   - `display`, `padding`, `justify-content`
   - `align-items`, `margin`, `background-color`, `color`
