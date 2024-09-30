@@ -1,4 +1,4 @@
-#Fcc Quiz form
+# FCC Building Quiz Form
 
 > This is a project about some semantic HTML and CSS elements
 
@@ -10,7 +10,7 @@ Additional description of the project and its features.
 
 - Html elements,
   - `label`, `section`, `footer`, `header`
-  - ``nav`, `ul`, `ol`, `button`, `div`
+  - `nav`, `ul`, `ol`, `button`, `div`
 - CSS,
   - `display`, `padding`, `justify-content`
   - `align-items`, `margin`, `background-color`, `color`
